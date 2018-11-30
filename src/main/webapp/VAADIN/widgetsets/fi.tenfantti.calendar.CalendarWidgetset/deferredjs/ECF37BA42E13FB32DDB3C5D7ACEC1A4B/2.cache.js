@@ -1,0 +1,1 @@
+$wnd.fi_tenfantti_calendar_CalendarWidgetset.runAsyncCallback2('Wib(1884,1,bke);_.$b=function jyc(){ecc((!Ybc&&(Ybc=new mcc),Ybc),this.a.d)};Pde(Dh)(2);\n//# sourceURL=fi.tenfantti.calendar.CalendarWidgetset-2.js\n')

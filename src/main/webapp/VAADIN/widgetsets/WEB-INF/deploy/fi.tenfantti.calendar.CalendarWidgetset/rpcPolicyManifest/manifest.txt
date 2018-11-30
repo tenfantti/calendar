@@ -1,0 +1,2 @@
+# Module fi.tenfantti.calendar.CalendarWidgetset
+# RPC service class, partial path of RPC policy file
